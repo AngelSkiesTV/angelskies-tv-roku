@@ -13,67 +13,80 @@
           "url": "https://devtools.web.roku.com/samples/videos/Mp4/sintel.mp4",
           "streamFormat": "mp4"
         }
-      ]
+      ],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/library.jpg"
     },
     {
       "id": "wholez",
       "title": "WHOLEz Node",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/wholez.jpg"
     },
     {
       "id": "arch",
       "title": "ARCH",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/arch.jpg"
     },
     {
       "id": "empowerment",
       "title": "EMPOWERMENT",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/empowerment.jpg"
     },
     {
       "id": "family",
       "title": "Family Ties",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/family.jpg"
     },
     {
       "id": "fitness",
       "title": "Five Fold Fitness",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/fitness.jpg"
     },
     {
       "id": "kmo",
       "title": "KMo's Korner",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/kmo.jpg"
     },
     {
       "id": "komic",
       "title": "Komic Relief",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/komic.jpg"
     },
     {
       "id": "mugoda",
       "title": "Mugoda Ministries",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/mugoda.jpg"
     },
     {
       "id": "music",
       "title": "Music Matters",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/music.jpg"
     },
     {
       "id": "praise",
       "title": "Praise Report",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/praise.jpg"
     },
     {
       "id": "truth",
       "title": "Truth",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/truth.jpg"
     },
     {
       "id": "worldview",
       "title": "World View",
-      "videos": []
+      "videos": [],
+      "splash": "https://raw.githubusercontent.com/AngelSkiesTV/angelskies-tv-roku/main/images/splash/worldview.jpg"
     }
   ]
 }

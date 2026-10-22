@@ -13,6 +13,7 @@ sub load()
         for each n in feed.nodes
             row = root.CreateChild("ContentNode")
             row.title = n.title
+            if n.splash <> invalid then row.HDPosterUrl = n.splash
             if n.videos.Count() = 0
                 v = row.CreateChild("ContentNode")
                 v.title = "Coming soon"

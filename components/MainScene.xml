@@ -6,6 +6,7 @@
     <RowList id="rows" translation="[80,140]" itemComponentName="PosterItem" numRows="3"
       itemSize="[1760,330]" rowItemSize="[[400,260]]" rowItemSpacing="[[30,0]]" itemSpacing="[0,40]"
       showRowLabel="[true]" rowFocusAnimationStyle="floatingFocus"/>
+    <Poster id="splash" visible="false" width="1920" height="1080" loadDisplayMode="scaleToFill"/>
     <Video id="player" visible="false" width="1920" height="1080"/>
   </children>
 </component>
