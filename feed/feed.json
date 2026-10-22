@@ -1,0 +1,79 @@
+{
+  "providerName": "AngelSkies TV",
+  "nodes": [
+    {
+      "id": "library",
+      "title": "Common Ground Main Library",
+      "videos": [
+        {
+          "id": "sample1",
+          "title": "Welcome to AngelSkies TV",
+          "description": "Sample video - replace with node content.",
+          "thumbnail": "https://image.mux.com/x/thumbnail.jpg",
+          "url": "https://devtools.web.roku.com/samples/videos/Mp4/sintel.mp4",
+          "streamFormat": "mp4"
+        }
+      ]
+    },
+    {
+      "id": "wholez",
+      "title": "WHOLEz Node",
+      "videos": []
+    },
+    {
+      "id": "arch",
+      "title": "ARCH",
+      "videos": []
+    },
+    {
+      "id": "empowerment",
+      "title": "EMPOWERMENT",
+      "videos": []
+    },
+    {
+      "id": "family",
+      "title": "Family Ties",
+      "videos": []
+    },
+    {
+      "id": "fitness",
+      "title": "Five Fold Fitness",
+      "videos": []
+    },
+    {
+      "id": "kmo",
+      "title": "KMo's Korner",
+      "videos": []
+    },
+    {
+      "id": "komic",
+      "title": "Komic Relief",
+      "videos": []
+    },
+    {
+      "id": "mugoda",
+      "title": "Mugoda Ministries",
+      "videos": []
+    },
+    {
+      "id": "music",
+      "title": "Music Matters",
+      "videos": []
+    },
+    {
+      "id": "praise",
+      "title": "Praise Report",
+      "videos": []
+    },
+    {
+      "id": "truth",
+      "title": "Truth",
+      "videos": []
+    },
+    {
+      "id": "worldview",
+      "title": "World View",
+      "videos": []
+    }
+  ]
+}

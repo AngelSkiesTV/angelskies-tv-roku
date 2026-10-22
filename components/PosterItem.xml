@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component name="PosterItem" extends="Group">
+  <interface><field id="itemContent" type="node" onChange="show"/></interface>
+  <script type="text/brightscript"><![CDATA[
+sub init()
+    m.poster = m.top.FindNode("poster")
+    m.label = m.top.FindNode("label")
+end sub
+sub show()
+    m.poster.uri = m.top.itemContent.HDPosterUrl
+    m.label.text = m.top.itemContent.title
+end sub
+  ]]></script>
+  <children>
+    <Rectangle width="400" height="225" color="#1a1a40"/>
+    <Poster id="poster" width="400" height="225"/>
+    <Label id="label" translation="[0,230]" width="400" horizAlign="center"/>
+  </children>
+</component>
