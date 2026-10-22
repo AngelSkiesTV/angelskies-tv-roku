@@ -6,7 +6,16 @@
     <RowList id="rows" translation="[80,140]" itemComponentName="PosterItem" numRows="3"
       itemSize="[1760,330]" rowItemSize="[[400,260]]" rowItemSpacing="[[30,0]]" itemSpacing="[0,40]"
       showRowLabel="[true]" rowFocusAnimationStyle="floatingFocus"/>
-    <Poster id="splash" visible="false" width="1920" height="1080" loadDisplayMode="scaleToFill"/>
+    <Poster id="splash" visible="false" width="1920" height="1080" loadDisplayMode="scaleToFill">
+      <Label id="splashHint" text="Press OK to continue" translation="[80,980]" width="1760" horizAlign="center"/>
+    </Poster>
+    <Group id="menu" visible="false">
+      <Rectangle width="1920" height="1080" color="0x101828FF"/>
+      <Label id="menuTitle" translation="[80,60]" font="font:LargeBoldSystemFont"/>
+      <LabelList id="menuList" translation="[80,180]" itemSize="[900,64]" numRows="12" vertFocusAnimationStyle="floatingFocus"/>
+      <Poster id="menuThumb" translation="[1060,180]" width="780" height="440" loadDisplayMode="scaleToFit"/>
+      <Label id="menuDesc" translation="[1060,650]" width="780" height="360" wrap="true"/>
+    </Group>
     <Video id="player" visible="false" width="1920" height="1080"/>
   </children>
 </component>
